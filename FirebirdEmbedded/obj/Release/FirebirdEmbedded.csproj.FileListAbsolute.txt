@@ -1,0 +1,15 @@
+C:\Users\Erciyes\source\repos\FirebirdEmbedded\FirebirdEmbedded\bin\Release\FirebirdEmbedded.exe.config
+C:\Users\Erciyes\source\repos\FirebirdEmbedded\FirebirdEmbedded\bin\Release\FirebirdEmbedded.exe
+C:\Users\Erciyes\source\repos\FirebirdEmbedded\FirebirdEmbedded\bin\Release\FirebirdEmbedded.pdb
+C:\Users\Erciyes\source\repos\FirebirdEmbedded\FirebirdEmbedded\bin\Release\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Erciyes\source\repos\FirebirdEmbedded\FirebirdEmbedded\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Erciyes\source\repos\FirebirdEmbedded\FirebirdEmbedded\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Erciyes\source\repos\FirebirdEmbedded\FirebirdEmbedded\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Erciyes\source\repos\FirebirdEmbedded\FirebirdEmbedded\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Erciyes\source\repos\FirebirdEmbedded\FirebirdEmbedded\obj\Release\FirebirdEmbedded.Form1.resources
+C:\Users\Erciyes\source\repos\FirebirdEmbedded\FirebirdEmbedded\obj\Release\FirebirdEmbedded.Properties.Resources.resources
+C:\Users\Erciyes\source\repos\FirebirdEmbedded\FirebirdEmbedded\obj\Release\FirebirdEmbedded.csproj.GenerateResource.cache
+C:\Users\Erciyes\source\repos\FirebirdEmbedded\FirebirdEmbedded\obj\Release\FirebirdEmbedded.csproj.CoreCompileInputs.cache
+C:\Users\Erciyes\source\repos\FirebirdEmbedded\FirebirdEmbedded\obj\Release\FirebirdEmbedded.csproj.CopyComplete
+C:\Users\Erciyes\source\repos\FirebirdEmbedded\FirebirdEmbedded\obj\Release\FirebirdEmbedded.exe
+C:\Users\Erciyes\source\repos\FirebirdEmbedded\FirebirdEmbedded\obj\Release\FirebirdEmbedded.pdb

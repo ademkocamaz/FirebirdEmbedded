@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirebirdEmbedded", "FirebirdEmbedded\FirebirdEmbedded.csproj", "{71B84DBF-C76E-47F3-8F7C-9D3EA2E5FB73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71B84DBF-C76E-47F3-8F7C-9D3EA2E5FB73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B84DBF-C76E-47F3-8F7C-9D3EA2E5FB73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B84DBF-C76E-47F3-8F7C-9D3EA2E5FB73}.Debug|x86.ActiveCfg = Debug|x86
+		{71B84DBF-C76E-47F3-8F7C-9D3EA2E5FB73}.Debug|x86.Build.0 = Debug|x86
+		{71B84DBF-C76E-47F3-8F7C-9D3EA2E5FB73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B84DBF-C76E-47F3-8F7C-9D3EA2E5FB73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71B84DBF-C76E-47F3-8F7C-9D3EA2E5FB73}.Release|x86.ActiveCfg = Release|x86
+		{71B84DBF-C76E-47F3-8F7C-9D3EA2E5FB73}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CE2E851-1E57-4F85-88DE-2EE959F48BA3}
+	EndGlobalSection
+EndGlobal
